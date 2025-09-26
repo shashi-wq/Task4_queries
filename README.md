@@ -1,6 +1,5 @@
-# Task4_queries
 
-# Task 3 - SQL Data Analysis (E-commerce Database)
+# Task 4 - SQL Data Analysis (E-commerce Database)
 
 ## 🎯 Objective
 The goal of this task is to practice SQL for **data analysis and reporting**.  
